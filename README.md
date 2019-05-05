@@ -1,6 +1,9 @@
 # FancyDialog
 
-<img src="/images/img1.png" height="200"/> <img src="/images/img2.jpg" height="200"/>
+
+<img src="/images/backdrop.jpg" width="1280" height="720"/>
+
+<img src="/images/img1.png" height="720"/> <img src="/images/img2.jpg" height="720"/>
 
 
 
